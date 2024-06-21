@@ -1,7 +1,7 @@
 {
   "name": "smart-splits",
   "displayName": "Smart Splits",
-  "description": "This extension should serve as a VS Code port of the smart-splits.nvim neovim plugin. It offers a smarter and more intuitive split pane management that uses the mental model of left/right/up/down instead of wider/narrower/taller/shorter for resizing.",
+  "description": "Inspired by the [smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) Neovim plugin by Mat Jones, this VSCode extension aims to bring smart and intuitive split pane navigation and resizing functionality to VSCode. Instead of the traditional \"wider/narrower/taller/shorter\" resizing model, this extension adopts a more natural \"left/right/up/down\" approach.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
